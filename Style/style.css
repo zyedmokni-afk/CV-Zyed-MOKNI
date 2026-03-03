@@ -4,7 +4,6 @@ body{
 
 h1 {
     font-family:'Courier New', Courier, monospace;
-    
 }
 
 .back-video {
@@ -22,10 +21,10 @@ h1 {
 }
 
 .hero{
+
 }
 
 .end{
-    position: absolute;
 }
 
 #logo_steam{
